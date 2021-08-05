@@ -1,0 +1,16 @@
+@-moz-document domain(github.com) {
+    pre,code {
+        font-family: Iosevka !important;
+        font-size: 1.05em !important;
+    }
+
+    pre code {
+        font-family: Iosevka !important;
+        font-size: 1.05em !important;
+    }
+    
+    .blob-code {
+        font-family: Iosevka !important;
+        font-size: 1.05em !important;
+    }
+}
