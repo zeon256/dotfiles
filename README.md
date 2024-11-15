@@ -1,10 +1,17 @@
-# My dotfile for linux
-Just my personal dotfiles for linux, nothing much just 3 softwares
+# Dotfiles
+> Personal dotfiles
 
 <p align="center">
   <img src="./Preview.png">
 </p>
 
+<p align="center">
+  <img src="./Preview2.png">
+</p>
+
 - polybar
 - firefox
 - alacritty
+- i3
+- vscode
+- helix
